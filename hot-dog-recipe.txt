@@ -1,0 +1,12 @@
+Ingredients:
+ - 1 sausage
+ - 1 bread
+ - sauces
+ - 1/4 cup onion
+ - 1/4 cheese
+
+Directions:
+  1. Add the onion to the bread
+  2. Put the sausage on the bread
+  3. Add the cheese on the sausage
+  4. Serve sauce to taste
